@@ -1,0 +1,187 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.do-list
+{
+    background-image: url(../images/Blue-Background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 320px;
+}
+
+.jum-add
+{
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+    position: relative;
+    top: 70px;
+    z-index: 99999;
+    
+}
+#add-inp
+{
+    padding: 25px 15px;
+}
+.add-btn
+{
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10px 20px;
+    border-radius: 500px;
+    
+}
+.new-jum
+{
+    padding: 15px 20px;
+    font-size: 25px;
+    width: 100%;
+    height: 70px;
+    background-color: rgba(0,0,0,0.6);
+    margin: auto;
+    text-align: justify;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: antiquewhite;
+    
+}
+#doneBtn
+{
+    color: rgba(0,255,0,0.9);
+    padding-left: 5px;
+}
+#delBtn
+{
+    color: rgba(255,0,0,0.9);
+}
+
+
+#done
+{
+    background-color: green;
+}
+
+
+.f-1
+{
+    height: 25px;
+}
+
+
+
+.music-bg
+{
+    font-size: 80px;
+    padding-top: 80px;
+    background-color: black;
+    padding-bottom: 400px;
+    color: whitesmoke;
+    
+    transition: all 1s;
+}
+
+.word
+{
+    list-style: none;
+    position: relative;
+    z-index: 300;
+}
+
+.counter
+{
+    position: relative;
+    top: 80px;
+    font-size: 80px;
+    
+}
+.counter p
+{
+    font-size: 20px;
+}
+
+
+#days
+{
+    padding: 20px 35px;
+    
+}
+
+#hours
+{
+    padding: 20px 35px;
+    
+}
+#minutes
+{
+    padding: 20px 35px;
+    
+}
+#seconds
+{
+    padding: 20px 35px;
+    
+}
+
+
+
+
+
+.form-container
+{
+    background-image: url(../images/green.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 120px;
+    border-top: 1px solid transparent;
+}
+
+.jum-form
+{
+    background-color: rgba(255,255,200,0.6);
+    margin-top: 70px;
+    text-align: center;
+}
+
+
+.message
+{
+    padding-bottom: 120px;
+    padding-top: 20px;
+}
+
+
+.alert
+{
+    display: none;
+}
+
+.remain
+{
+    margin-top: 0;
+}
+
+
+
+.black
+{
+    fill: black;
+}
+
+
+
+#letterR 
+{
+    cursor: pointer;
+    margin-right: 20px;
+}
+#letterG
+{
+    cursor: pointer;
+    margin-right: 20px;
+}
+#letterB
+{
+    cursor: pointer;
+}
